@@ -12,7 +12,7 @@ versions:
 topics:
   - organizations
   - teams
----
+---action.yml
 
 {% data reusables.repositories.deleted_forks_from_private_repositories_warning %}  
 
