@@ -18,7 +18,8 @@ Effective date: December 19, 2020
 
 Thanks for entrusting GitHub Inc. (“GitHub”, “we”) with your source code, your projects, and your personal information. Holding on to your private information is a serious responsibility, and we want you to know how we're handling it.
 
-All capitalized terms have their definition in [GitHub’s Terms of Service](/github/site-policy/github-terms-of-service), unless otherwise noted here.
+All capitalized terms have their definition in [GitHub’s Terms 
+of Service](/github/site-policy/github-terms-of-service), unless otherwise noted here.
 
 
 ### The short version
